@@ -3,5 +3,4 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
 
 
 This is the my 1st Big-Data analysis.. 
-
 i did some EDA operations and explored Dataset nd gained some insights
